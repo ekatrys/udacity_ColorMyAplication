@@ -1,10 +1,6 @@
 out
 .idea
-**/*.iml
+local.properties
 .gradle
-/local.properties
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+**/*.iml
+
